@@ -7,3 +7,6 @@ print ("Ola Ke Ase")
 
 frase = "¡Hola, Mundo!"
 print (frase[7:12:2])
+
+palabra = "palabralarga"
+print (palabra.capitalize())
