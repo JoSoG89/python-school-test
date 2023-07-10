@@ -11,5 +11,9 @@ print (frase[7:12:2])
 palabra = "palabralarga"
 print (palabra.capitalize())
 
-email = input("ingrese correo: ")
-print ("su correo es")
+
+edad = int(input("Ingrese su edad: "))
+print(edad)
+
+valor = input ("Ingrese'True' o 'False': ")
+print (type(valor))
