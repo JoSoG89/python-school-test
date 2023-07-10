@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 numero = 18
 edad = 15
 type (5)
@@ -9,5 +8,3 @@ print (len (""))
 numero = 20
 edad = 33
 type (5)
-
->>>>>>> 8d36476 (	new file:   inicial.py)
