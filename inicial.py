@@ -10,3 +10,6 @@ print (frase[7:12:2])
 
 palabra = "palabralarga"
 print (palabra.capitalize())
+
+email = input("ingrese correo: ")
+print ("su correo es")
